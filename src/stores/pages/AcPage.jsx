@@ -49,7 +49,7 @@ const AcPage = () => {
                     </div>
                 </Link>
                 <div className="proModel">
-                    {item.company} {item.model}
+                    <h4>{item.company} {item.model}</h4>
                 </div>
                 </div>
             );

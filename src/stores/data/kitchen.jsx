@@ -7,7 +7,7 @@ export const kitchenData = [{
         "model": "Microwave Oven",
         "price": "29,990",
         "category": "Appliances",
-        "description": "A powerful blender for smoothies, soups, and more, with variable speed control."
+        "description": "A high-performance blender with multiple speed settings and a durable glass jar."
     },
     {
         "id": "2",
@@ -18,7 +18,7 @@ export const kitchenData = [{
         "model": "Steel Mixer Grinder",
         "price": "7,490",
         "category": "Cookware",
-        "description": "A comprehensive cookware set featuring nonstick surfaces and durable construction."
+        "description": "A complete cookware set with non-stick pots and pans for versatile cooking."
     },
     {
         "id": "3",
@@ -29,7 +29,7 @@ export const kitchenData = [{
         "model": "FlameStar Max4 Gas Stove",
         "price": "5,479",
         "category": "Appliances",
-        "description": "A versatile coffee maker with multiple brew sizes and strong brew option."
+        "description": "A compact coffee maker with a built-in grinder for fresh coffee grounds."
     },
     {
         "id": "4",
@@ -40,7 +40,7 @@ export const kitchenData = [{
         "model": "Air Fryer",
         "price": "6,299",
         "category": "Cutlery",
-        "description": "A high-quality knife set featuring essential knives and a stylish knife block."
+        "description": "A professional-grade knife set with ergonomic handles and high-quality stainless steel blades."
     },
     {
         "id": "5",
@@ -51,7 +51,7 @@ export const kitchenData = [{
         "model": "Kitchen Chimney",
         "price": "10,299",
         "category": "Appliances",
-        "description": "An iconic stand mixer known for its versatility and wide range of attachments."
+        "description": "A versatile stand mixer with multiple attachments for kneading, mixing, and whipping."
     },
     {
         "id": "6",
@@ -62,7 +62,7 @@ export const kitchenData = [{
         "model": "Blaze Water Purifier",
         "price": "22,999",
         "category": "Bakeware",
-        "description": "A practical baking set with various glass containers for baking, storing, and serving."
+        "description": "A complete baking set with high-quality bakeware for all your baking needs."
     },
     {
         "id": "7",
@@ -73,7 +73,7 @@ export const kitchenData = [{
         "model": "Steel Electric Kettle",
         "price": "672",
         "category": "Appliances",
-        "description": "A sophisticated rice cooker with advanced fuzzy logic technology for perfect rice every time."
+        "description": "A compact rice cooker with a non-stick inner pot for easy cooking and cleaning."
     },
     {
         "id": "8",
@@ -84,7 +84,7 @@ export const kitchenData = [{
         "model": "Inox Rice Cooker",
         "price": "2,990",
         "category": "Utensils",
-        "description": "A versatile utensil set with comfortable grips and a variety of kitchen tools."
+        "description": "A complete utensil set with a variety of pots, pans, and kitchen tools for everyday cooking."
     },
     {
         "id": "9",
@@ -95,7 +95,7 @@ export const kitchenData = [{
         "model": "Knife Set",
         "price": "379",
         "category": "Appliances",
-        "description": "A powerful food processor for chopping, slicing, and shredding ingredients."
+        "description": "A versatile food processor with multiple attachments for chopping, slicing, and grating."
     },
     {
         "id": "10",
@@ -106,7 +106,7 @@ export const kitchenData = [{
         "model": "Toaster",
         "price": "1,849",
         "category": "Appliances",
-        "description": "A handheld mixer with multiple speed settings for blending, whipping, and mixing."
+        "description": "A powerful mixer with multiple speed settings and a durable stainless steel bowl."
     },
     {
         "id": "11",
@@ -117,7 +117,7 @@ export const kitchenData = [{
         "model": "Non Stick Cookware",
         "price": "1,899",
         "category": "Dining",
-        "description": "A durable and lightweight dish set suitable for everyday dining and special occasions."
+        "description": "A complete dish set with elegant designs and durable materials for everyday dining."
     },
     {
         "id": "12",
@@ -128,6 +128,6 @@ export const kitchenData = [{
         "model": "Coffee Michine",
         "price": "1,099",
         "category": "Appliances",
-        "description": "A programmable slow cooker for convenient and flavorful cooking."
+        "description": "A slow cooker with programmable settings for convenient and delicious meals."       
     }
 ]

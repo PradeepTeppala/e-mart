@@ -6,8 +6,7 @@ export const watchData = [{
         "model": "Watch Ultra 2",
         "price": "1,04,900",
         "category": "Wearable",
-        "description": "The latest Apple Watch with a larger display and advanced health features."
-    },
+        "description": "An advanced smartwatch with a rugged design and comprehensive health tracking features."},
     {
         "id": "2",
         "product": "Watch",
@@ -16,8 +15,7 @@ export const watchData = [{
         "model": "Galaxy Watch 7",
         "price": "27,499",
         "category": "Wearable",
-        "description": "A Samsung smartwatch with comprehensive health tracking and versatile design."
-    },
+        "description": "A premium smartwatch with a sleek design and advanced health monitoring capabilities."},
     {
         "id": "3",
         "product": "Watch",
@@ -26,8 +24,7 @@ export const watchData = [{
         "model": "Pixel Watch",
         "price": "73,519",
         "category": "Wearable",
-        "description": "A Fitbit smartwatch with built-in GPS and fitness tracking capabilities."
-    },
+        "description": "A stylish smartwatch with a vibrant display and seamless integration with Google services."},
     {
         "id": "4",
         "product": "Watch",
@@ -36,8 +33,7 @@ export const watchData = [{
         "model": "Sense 2",
         "price": "21,499",
         "category": "Wearable",
-        "description": "A high-end Garmin GPS watch designed for serious athletes and outdoor enthusiasts."
-    },
+        "description": "A feature-rich smartwatch with health tracking and fitness features, perfect for active lifestyles."},
     {
         "id": "5",
         "product": "Watch",
@@ -46,8 +42,7 @@ export const watchData = [{
         "model": "Pro 6 Max",
         "price": "7,999",
         "category": "Wearable",
-        "description": "A stylish Fossil smartwatch with Wear OS and customizable watch faces."
-    },
+        "description": "A stylish smartwatch with a vibrant display and seamless integration with Google services."},
     {
         "id": "6",
         "product": "Watch",
@@ -56,8 +51,7 @@ export const watchData = [{
         "model": "fenix 8",
         "price": "1,33,990",
         "category": "Wearable",
-        "description": "A rugged and iconic G-Shock watch with a modern and slim design."
-    },
+        "description": "A rugged smartwatch designed for outdoor enthusiasts with advanced GPS and health tracking features."},
     {
         "id": "7",
         "product": "Watch",
@@ -66,8 +60,7 @@ export const watchData = [{
         "model": "Phantom",
         "price": "7,995",
         "category": "Luxury",
-        "description": "A luxurious TAG Heuer mechanical watch with a sporty and sophisticated design."
-    },
+        "description": "A stylish Fastrack watch with a modern design and durable build, perfect for everyday wear."},
     {
         "id": "8",
         "product": "Watch",
@@ -76,7 +69,8 @@ export const watchData = [{
         "model": "Crest",
         "price": "5,998",
         "category": "Wearable",
-        "description": "A versatile Timex watch with a chronograph function and interchangeable straps."
+        "description": "A classic Titan watch with a timeless design and reliable performance, suitable for any occasion."
+        
     },
     {
         "id": "9",
@@ -86,7 +80,8 @@ export const watchData = [{
         "model": "Watch FIT 3",
         "price": "11,499",
         "category": "Wearable",
-        "description": "A Citizen watch powered by light with durable construction for outdoor adventures."
+        "description": "A feature-packed smartwatch with a sleek design and advanced health tracking capabilities."
+
     },
     {
         "id": "10",
@@ -96,7 +91,8 @@ export const watchData = [{
         "model": "Crown R Pro",
         "price": "2,399",
         "category": "Wearable",
-        "description": "A classic Seiko diver's watch known for its reliability and timeless design."
+        "description": "A budget-friendly smartwatch with essential features and a sleek design."
+
     },
     {
         "id": "11",
@@ -106,7 +102,7 @@ export const watchData = [{
         "model": "Balance",
         "price": "16,999",
         "category": "Wearable",
-        "description": "A Michael Kors smartwatch with a luxurious look and smart functionalities."
+        "description": "A feature-packed smartwatch with a sleek design and advanced health tracking capabilities."
     },
     {
         "id": "12",
@@ -116,6 +112,5 @@ export const watchData = [{
         "model": "Chrome Horizon",
         "price": "3,599",
         "category": "Wearable",
-        "description": "A Huawei smartwatch with long battery life and health monitoring features."
-    }
+        "description": "A stylish smartwatch with a vibrant display and seamless integration with Google services."}
 ]

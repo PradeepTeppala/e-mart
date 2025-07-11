@@ -18,13 +18,13 @@ const Products = () => {
       <Computers/>
       <Watches/>
       <Tv/>
+      <Books/>
       <Speaker/>
+      <Furniture/>
       <Kitchen/>
+      {/* <AC/> */}
       <ManFashion/>
       <WomanFashion/>
-      <Furniture/>
-      <AC/>
-      <Books/>
     </div>
   )
 }

@@ -6,7 +6,7 @@ export const tvData = [{
         "model": "Neo Qled 8k",
         "price": "13,49,990",
         "category": "Electronics",
-        "description": "A high-end OLED TV with stunning picture quality and smart features."
+        "description": "A premium 8K TV with Quantum HDR and Dolby Atmos for an immersive viewing experience."
     },
     {
         "id": "2",
@@ -16,7 +16,7 @@ export const tvData = [{
         "model": "Oled evo AI 4k",
         "price": "4,73,391",
         "category": "Electronics",
-        "description": "A 4K LED TV with advanced processing and immersive audio technology."
+        "description": "An OLED TV with AI Picture Pro for stunning visuals and Dolby Vision IQ for enhanced HDR."
     },
     {
         "id": "3",
@@ -26,7 +26,7 @@ export const tvData = [{
         "model": "Qled Google TV ",
         "price": "67,990",
         "category": "Electronics",
-        "description": "A QLED TV with vibrant colors and impressive upscaling capabilities."
+        "description": "A 4K QLED TV with Google TV for a smart viewing experience and Dolby Vision support."
     },
     {
         "id": "4",
@@ -36,7 +36,7 @@ export const tvData = [{
         "model": "Q2 Pro",
         "price": "66,990",
         "category": "Electronics",
-        "description": "An affordable 4K TV with Dolby Vision HDR and Roku smart platform."
+        "description": "A 4K OLED TV with a sleek design, Dolby Vision, and HDR10+ for vibrant colors."
     },
     {
         "id": "5",
@@ -46,7 +46,7 @@ export const tvData = [{
         "model": "AR85 QLed",
         "price": "",
         "category": "Electronics",
-        "description": "A quantum dot 4K TV with high brightness and local dimming zones."
+        "description": "A 4K QLED TV with a sleek design, Dolby Vision, and HDR10+ for vibrant colors."
     },
     {
         "id": "6",
@@ -66,7 +66,7 @@ export const tvData = [{
         "model": "Hd Smart QLed",
         "price": "1,69,990",
         "category": "Electronics",
-        "description": "A flagship OLED TV with customized professional-grade picture quality."
+        "description": "A 4K TV with a sleek design, Dolby Vision, and HDR10+ for vibrant colors."
     },
     {
         "id": "8",
@@ -86,7 +86,7 @@ export const tvData = [{
         "model": "Q1 Series 4K Ultra HD",
         "price": "89,999",
         "category": "Electronics",
-        "description": "A 4K TV with Ambilight technology, creating an immersive viewing experience."
+        "description": "A 4K Ultra HD TV with Dolby Vision and HDR10+ for an immersive viewing experience."
     },
     {
         "id": "10",
@@ -96,7 +96,7 @@ export const tvData = [{
         "model": "EnvisionX",
         "price": "1,19,999",
         "category": "Electronics",
-        "description": "An affordable full HD TV with basic features for everyday entertainment."
+        "description": "A 4K Ultra HD TV with Dolby Vision and HDR10+ for an immersive viewing experience."
     },
     {
         "id": "11",
@@ -106,7 +106,7 @@ export const tvData = [{
         "model": "C6K Series",
         "price": "1,19,990",
         "category": "Electronics",
-        "description": "A budget-friendly 4K TV with built-in Fire TV and Alexa voice control."
+        "description": "A 4K Ultra HD TV with Dolby Vision and HDR10+ for an immersive viewing experience."
     },
     {
         "id": "12",
@@ -116,7 +116,7 @@ export const tvData = [{
         "model": "Smart Led",
         "price": "10,499",
         "category": "Electronics",
-        "description": "A TV that doubles as a piece of art, seamlessly blending into your decor."
+        "description": "A budget-friendly smart LED TV with decent picture quality and smart features."
     }
 ]
 

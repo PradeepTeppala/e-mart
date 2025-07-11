@@ -27,6 +27,9 @@ const ManSingle = () => {
                 <h3>{product.model}</h3>
             </div>
             <div className="ind-desc space">
+                <h2>Rs. {product.price}</h2>
+            </div>
+            <div className="ind-desc space">
                 <p>{product.description}</p>
             </div>
       <button onClick={()=>addToCart(product)}>Add to Cart</button>

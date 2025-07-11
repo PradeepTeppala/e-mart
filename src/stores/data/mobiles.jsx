@@ -7,7 +7,7 @@ export const mobileData = [{
         "model": "iphone 16Pro Max",
         "price": "1,35,900",
         "category": "Electronics",
-        "description": "The latest iPhone model with advanced camera capabilities and powerful performance."
+        "description": "The latest iPhone with advanced features and a stunning display."
     },
     {
         "id": "2",
@@ -17,7 +17,7 @@ export const mobileData = [{
         "model": "Galaxy S25 Ultra",
         "price": "1,17,999",
         "category": "Electronics",
-        "description": "A foldable smartphone with a large display and multitasking features."
+        "description": "A premium Samsung phone with a high-resolution camera and sleek design."
     },
     {
         "id": "3",
@@ -27,7 +27,7 @@ export const mobileData = [{
         "model": "13s",
         "price": "54,998",
         "category": "Electronics",
-        "description": "A Google Pixel phone with exceptional camera quality and the latest Android features."
+        "description": "A budget-friendly smartphone with a large display and decent performance."
     },
     {
         "id": "4",
@@ -37,7 +37,7 @@ export const mobileData = [{
         "model": "Pixel 9Pro",
         "price": "74,999",
         "category": "Electronics",
-        "description": "A flagship OnePlus phone known for its smooth performance and fast charging."
+        "description": "A Google Pixel phone with stock Android experience and excellent camera capabilities."
     },
     {
         "id": "5",
@@ -47,8 +47,7 @@ export const mobileData = [{
         "model": "3a Pro",
         "price": "33,990",
         "category": "Electronics",
-        "description": "A high-spec Xiaomi phone with a versatile camera system and powerful hardware."
-    },
+        "description": "A Nothing phone with a unique design and innovative features."},
     {
         "id": "6",
         "product": "Mobile",
@@ -57,7 +56,7 @@ export const mobileData = [{
         "model": "Razr 60 Ultra",
         "price": "99,999",
         "category": "Electronics",
-        "description": "A Sony Xperia phone with a 4K display and pro-level camera features."
+        "description": "A Motorola Razr phone with a foldable display and retro design."
     },
     {
         "id": "7",
@@ -67,8 +66,7 @@ export const mobileData = [{
         "model": "13 ",
         "price": "54,998",
         "category": "Electronics",
-        "description": "An LG smartphone with AI-enhanced features and a sleek design."
-    },
+        "description": "An iQoo phone with a focus on performance and gaming capabilities."},
     {
         "id": "8",
         "product": "Mobile",
@@ -77,8 +75,7 @@ export const mobileData = [{
         "model": "Find X8 Pro",
         "price": "94,999",
         "category": "Electronics",
-        "description": "A Motorola Edge phone with 5G capabilities and a high-refresh-rate display."
-    },
+        "description": "An Oppo Find X phone with innovative design and impressive camera features."},
     {
         "id": "9",
         "product": "Mobile",
@@ -87,8 +84,7 @@ export const mobileData = [{
         "model": "X200 Pro",
         "price": "94,999",
         "category": "Electronics",
-        "description": "A Huawei flagship phone with advanced camera technology and sleek aesthetics."
-    },
+        "description": "A Vivo smartphone with a focus on photography and multimedia capabilities."},
     {
         "id": "10",
         "product": "Mobile",
@@ -97,8 +93,7 @@ export const mobileData = [{
         "model": "Agni",
         "price": "15,999",
         "category": "Electronics",
-        "description": "An Oppo Find X phone with innovative design and impressive camera features."
-    },
+        "description": "A Lava smartphone with a focus on affordability and essential features."},
     {
         "id": "11",
         "product": "Mobile",
@@ -107,8 +102,7 @@ export const mobileData = [{
         "model": "15 Ultra",
         "price": "1,09,998",
         "category": "Electronics",
-        "description": "A Nokia smartphone with 5G connectivity and a focus on reliability."
-    },
+        "description": "A Xiaomi phone with a high-performance camera and sleek design."},
     {
         "id": "12",
         "product": "Mobile",
@@ -117,6 +111,6 @@ export const mobileData = [{
         "model": "X7 Pro", 
         "price": "23,999",
         "category": "Electronics",
-        "description": "A Realme phone designed in collaboration with a renowned designer, featuring a unique aesthetic."
+        "description": "A Poco smartphone with a focus on performance and value for money."
     }
 ]

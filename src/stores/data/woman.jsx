@@ -1,7 +1,7 @@
 export const womanData = [{
         "id": "1",
         "product": "Woman Wear",
-        "image": "/assets/Woman/1.jpg",
+        "image": "/assets/NewWomen/1.jpg",
         "type": "Dress",
         "brand": "",
         "model": "",
@@ -12,7 +12,7 @@ export const womanData = [{
     {
         "id": "2",
         "product": "Woman Wear",
-        "image": "/assets/Woman/2.jpg",
+        "image": "/assets/NewWomen/2.jpg",
         "type": "Blouse",
         "brand": "",
         "model": "",
@@ -23,7 +23,7 @@ export const womanData = [{
     {
         "id": "3",
         "product": "Woman Wear",
-        "image": "/assets/Woman/3.jpg",
+        "image": "/assets/NewWomen/3.jpg",
         "type": "Jeans",
         "brand": "",
         "model": "",
@@ -34,7 +34,7 @@ export const womanData = [{
     {
         "id": "4",
         "product": "Woman Wear",
-        "image": "/assets/Woman/4.jpg",
+        "image": "/assets/NewWomen/4.jpg",
         "type": "Jumpsuit",
         "brand": "",
         "model": "",
@@ -45,7 +45,7 @@ export const womanData = [{
     {
         "id": "5",
         "product": "Woman Wear",
-        "image": "/assets/Woman/5.jpg",
+        "image": "/assets/NewWomen/5.jpg",
         "type": "Skirt",
         "brand": "",
         "model": "",
@@ -56,7 +56,7 @@ export const womanData = [{
     {
         "id": "6",
         "product": "Woman Wear",
-        "image": "/assets/Woman/6.jpg",
+        "image": "/assets/NewWomen/6.jpg",
         "type": "Sweater",
         "brand": "",
         "model": "",
@@ -67,7 +67,7 @@ export const womanData = [{
     {
         "id": "7",
         "product": "Woman Wear",
-        "image": "/assets/Woman/7.jpg",
+        "image": "/assets/NewWomen/7.jpg",
         "type": "Blazer",
         "brand": "",
         "model": "",
@@ -78,7 +78,7 @@ export const womanData = [{
     {
         "id": "8",
         "product": "Woman Wear",
-        "image": "/assets/Woman/8.jpg",
+        "image": "/assets/NewWomen/8.jpg",
         "type": "Activewear",
         "brand": "",
         "model": "",
@@ -89,7 +89,7 @@ export const womanData = [{
     {
         "id": "9",
         "product": "Woman Wear",
-        "image": "/assets/Woman/8.jpg",
+        "image": "/assets/NewWomen/9.jpg",
         "type": "Swimwear",
         "brand": "",
         "model": "",
@@ -100,7 +100,7 @@ export const womanData = [{
     {
         "id": "10",
         "product": "Woman Wear",
-        "image": "/assets/Woman/10.jpg",
+        "image": "/assets/NewWomen/10.jpg",
         "type": "Pants",
         "brand": "",
         "model": "",
@@ -111,7 +111,7 @@ export const womanData = [{
     {
         "id": "11",
         "product": "Woman Wear",
-        "image": "/assets/Woman/11.jpg",
+        "image": "/assets/NewWomen/11.jpg",
         "type": "Coat",
         "brand": "",
         "model": "",
@@ -122,7 +122,7 @@ export const womanData = [{
     {
         "id": "12",
         "product": "Woman Wear",
-        "image": "/assets/Woman/12.jpg",
+        "image": "/assets/NewWomen/12.jpg",
         "type": "T-Shirt",
         "brand": "",
         "model": "",

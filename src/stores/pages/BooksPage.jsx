@@ -49,7 +49,7 @@ const BooksPage = () => {
                     </div>
                 </Link>
                 <div className="proModel">
-                    {item.title} 
+                    <h4>{item.title} </h4>
                 </div>
                 </div>
             );

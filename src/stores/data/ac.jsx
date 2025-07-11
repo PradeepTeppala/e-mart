@@ -6,7 +6,7 @@ export const acData = [{
         "model": "Stylus Ac ",
         "price": "40,250",
         "category": "Electronics",
-        "description": "Powerful 15000 BTU window air conditioner with energy-saving features."
+        "description": "High-efficiency air conditioner with advanced cooling technology and energy-saving features."
     },
     {
         "id": "2",
@@ -16,7 +16,7 @@ export const acData = [{
         "model": "1.5 Ton",
         "price": "75,990",
         "category": "Electronics",
-        "description": "Advanced split-system AC with smart temperature control and quiet operation."
+        "description": "Compact and powerful AC unit with smart inverter technology for optimal performance."
     },
     {
         "id": "3",
@@ -26,7 +26,7 @@ export const acData = [{
         "model": "0.8 Ton",
         "price": "29,999",
         "category": "Electronics",
-        "description": "Ductless mini-split AC with adjustable airflow and dehumidification."
+        "description": "Energy-efficient cooling system designed for small rooms with quick cooling capabilities."
     },
     {
         "id": "4",
@@ -36,7 +36,7 @@ export const acData = [{
         "model": "2 Ton",
         "price": "43,759",
         "category": "Electronics",
-        "description": "Portable evaporative cooler with large water tank for efficient cooling in dry climates."
+        "description": "Innovative air cooler with dual cooling modes and a sleek design for modern interiors."
     },
     {
         "id": "5",
@@ -46,7 +46,7 @@ export const acData = [{
         "model": "1 Ton",
         "price": "31,700",
         "category": "Electronics",
-        "description": "Energy-efficient window-mounted air conditioner with remote control."
+        "description": "Window AC with powerful cooling and user-friendly controls, perfect for medium-sized rooms."
     },
     {
         "id": "6",
@@ -55,8 +55,8 @@ export const acData = [{
         "company": "Godrej",
         "model": "Split Invert AC",
         "price": "50,999",
-        "description": "Wi-Fi connected smart AC that adapts to your cooling preferences and schedule."
-    },
+        "category": "Electronics",
+        "description": "Smart air conditioner with Wi-Fi connectivity and voice control for convenient operation."},
     {
         "id": "7",
         "product": "Inverter AC",
@@ -65,7 +65,7 @@ export const acData = [{
         "model": "1.5 Ton",
         "price": "49,829",
         "category": "Electronics",
-        "description": "Inverter technology AC with precise temperature control and energy efficiency."
+        "description": "Inverter AC with energy-efficient technology and silent operation for a comfortable environment."
     },
     {
         "id": "8",
@@ -75,7 +75,7 @@ export const acData = [{
         "model": "2 Ton",
         "price": "48,499",
         "category": "Electronics",
-        "description": "Easy-to-move portable air conditioner with quick installation and cooling."
+        "description": "Portable air conditioner with easy mobility and powerful cooling for versatile use."
     },
     {
         "id": "9",
@@ -85,7 +85,7 @@ export const acData = [{
         "model": "1.5 Ton",
         "price": "35,490",
         "category": "Electronics",
-        "description": "Whole-house ducted AC system with advanced air purification technology."
+        "description": "Ducted AC system with multi-zone cooling and advanced filtration for improved air quality."
     },
     {
         "id": "10",
@@ -95,7 +95,7 @@ export const acData = [{
         "model": "1.8 Ton",
         "price": "44,490",
         "category": "Electronics",
-        "description": "Wall-mounted AC with adjustable louvers and energy-saving features."
+        "description": "Wall-mount AC with sleek design and high cooling capacity, ideal for larger rooms."
     },
     {
         "id": "11",
@@ -105,7 +105,7 @@ export const acData = [{
         "model": "1.5 Ton",
         "price": "53,990",
         "category": "Electronics",
-        "description": "High-performance split AC system with rapid cooling and remote control."
+        "description": "Split AC with advanced cooling technology and energy-efficient performance for year-round comfort."
     },
     {
         "id": "12",
@@ -115,7 +115,7 @@ export const acData = [{
         "model": "2 Ton",
         "price": "78,079",
         "category": "Electronics",
-        "description": "Powerful central AC unit for large homes with zone-based temperature control."
+        "description": "Central air conditioning system with comprehensive cooling solutions for large spaces."
     }
 ]
 

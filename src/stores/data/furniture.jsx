@@ -7,7 +7,7 @@ export const furnitureData = [{
         "model": "Bed",
         "price": "11,990",
         "category": "Home",
-        "description": "A comfortable and modern sofa with plush cushions and a sleek design."
+        "description": "A modern bed with a sleek design and comfortable mattress, perfect for any bedroom."
     },
     {
         "id": "2",
@@ -18,7 +18,7 @@ export const furnitureData = [{
         "model": "6 Seater Dining Table",
         "price": "",
         "category": "Home",
-        "description": "An elegant dining table with solid wood construction and expandable design."
+        "description": "A stylish dining table with a contemporary design, ideal for family gatherings."
     },
     {
         "id": "3",
@@ -29,7 +29,7 @@ export const furnitureData = [{
         "model": "3-Seat Sofa",
         "price": "22,990",
         "category": "Home",
-        "description": "A stylish and comfortable bed with upholstered headboard and durable frame."
+        "description": "A luxurious sofa with plush cushions and a modern aesthetic, perfect for living rooms."
     },
     {
         "id": "4",
@@ -40,7 +40,7 @@ export const furnitureData = [{
         "model": "Shelf Unit",
         "price": "10,390",
         "category": "Home",
-        "description": "A modern coffee table with a blend of materials, adding character to your living room."
+        "description": "A versatile bookcase with ample storage space, suitable for books and decor."
     },
     {
         "id": "5",
@@ -51,7 +51,7 @@ export const furnitureData = [{
         "model": "Table Lamp",
         "price": "1,990",
         "category": "Home",
-        "description": "A space-saving wardrobe with versatile storage compartments and sleek appearance."
+        "description": "A stylish table lamp with a modern design, perfect for adding ambiance to any room."
     },
     {
         "id": "6",
@@ -62,7 +62,7 @@ export const furnitureData = [{
         "model": "Akiwa TV Stand",
         "price": "12,199",
         "category": "Home",
-        "description": "A functional bookshelf with adjustable shelves, suitable for any room."
+        "description": "A sleek TV stand with a contemporary design, perfect for modern living rooms."
     },
     {
         "id": "7",
@@ -73,7 +73,7 @@ export const furnitureData = [{
         "model": "Wing Chair",
         "price": "23,990",
         "category": "Office",
-        "description": "A spacious office desk with ergonomic design and ample storage."
+        "description": "A comfortable wing chair with a classic design, ideal for reading nooks or living rooms."
     },
     {
         "id": "8",
@@ -84,7 +84,7 @@ export const furnitureData = [{
         "model": "SideBoard",
         "price": "12,990",
         "category": "Home",
-        "description": "An urban chic bar stool with a contemporary look, perfect for kitchen islands."
+        "description": "A modern side table with a sleek finish, perfect for adding style to any room."
     },
     {
         "id": "9",
@@ -95,7 +95,7 @@ export const furnitureData = [{
         "model": "Dressing Table",
         "price": "6,599",
         "category": "Home",
-        "description": "A rustic dresser with ample storage space and charming distressed finish."
+        "description": "A stylish dresser with ample storage, perfect for organizing clothes and accessories."
     },
     {
         "id": "10",
@@ -106,7 +106,7 @@ export const furnitureData = [{
         "model": "Coffee Table",
         "price": "55,999",
         "category": "Home",
-        "description": "A comfortable couch with deep seating and modern design, perfect for lounging."
+        "description": "A modern coffee table with a sleek design, perfect for living rooms and entertaining guests."
     },
     {
         "id": "11",
@@ -117,7 +117,7 @@ export const furnitureData = [{
         "model": "Wardrobe",
         "price": "14,990",
         "category": "Home",
-        "description": "A minimalist side table with clean lines, adding functionality to any space."
+        "description": "A spacious wardrobe with a contemporary design, ideal for organizing clothes and accessories."  
     },
     {
         "id": "12",
@@ -128,6 +128,6 @@ export const furnitureData = [{
         "model": "Wall Clock",
         "price": "556",
         "category": "Home",
-        "description": "A classic bedside table with a timeless design and convenient storage."
+        "description": "A stylish wall clock with a modern design, perfect for adding a touch of elegance to any room."     
     }
 ]

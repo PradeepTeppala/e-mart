@@ -6,7 +6,7 @@ export const speakerData = [{
         "model": "Stone Lgnite",
         "price": "7,999",
         "category": "Electronics",
-        "description": "A portable Bluetooth speaker with 360-degree sound and long battery life."
+        "description": "A portable speaker with deep bass and a sleek design, perfect for outdoor use."
     },
     {
         "id": "2",
@@ -16,7 +16,7 @@ export const speakerData = [{
         "model": "Tufton",
         "price": "38,999",
         "category": "Electronics",
-        "description": "A compact speaker with rich sound and the ability to pair with other Sonos speakers."
+        "description": "A premium speaker with a vintage look, delivering rich sound and long battery life."
     },
     {
         "id": "3",
@@ -26,7 +26,7 @@ export const speakerData = [{
         "model": "Hard EVA",
         "price": "2,999",
         "category": "Electronics",
-        "description": "A waterproof portable speaker with powerful bass and vibrant colors."
+        "description": "A compact speaker with powerful audio performance and a rugged design for travel."
     },
     {
         "id": "4",
@@ -36,7 +36,7 @@ export const speakerData = [{
         "model": "SRS-XV900",
         "price": "99,990",
         "category": "Electronics",
-        "description": "A high-powered Bluetooth speaker with extra bass and built-in party lights."
+        "description": "A high-end speaker with advanced features, delivering immersive sound and smart connectivity."
     },
     {
         "id": "5",
@@ -46,7 +46,7 @@ export const speakerData = [{
         "model": "Saregama Mini",
         "price": "3,990",
         "category": "Electronics",
-        "description": "A rugged and waterproof speaker with 360-degree sound and customizable EQ."
+        "description": "A compact speaker with a retro design, featuring classic Indian music and modern connectivity."
     },
     {
         "id": "6",
@@ -56,7 +56,7 @@ export const speakerData = [{
         "model": "TAX5206",
         "price": "16,990",
         "category": "Electronics",
-        "description": "A visually striking speaker with ambient lighting and powerful audio quality."
+        "description": "A stylish speaker with powerful sound, customizable lighting, and a durable build."
     },
     {
         "id": "7",
@@ -66,7 +66,7 @@ export const speakerData = [{
         "model": "Five1 AU1",
         "price": "57,499",
         "category": "Electronics",
-        "description": "A portable speaker with 360-degree sound, customizable lighting, and IPX7 waterproof rating."
+        "description": "A premium wireless speaker with high-fidelity sound, ideal for audiophiles and home theaters."
     },
     {
         "id": "8",
@@ -76,7 +76,7 @@ export const speakerData = [{
         "model": "Bassbox Q30",
         "price": "2,999",
         "category": "Electronics",
-        "description": "A vintage-styled speaker with classic rock aesthetics and powerful audio output."
+        "description": "A budget-friendly speaker with impressive bass and a compact design, perfect for casual listening."
     },
     {
         "id": "9",
@@ -86,7 +86,7 @@ export const speakerData = [{
         "model": "Partybox",
         "price": "23,999",
         "category": "Electronics",
-        "description": "A smart speaker with voice control and spacious sound, suitable for home audio."
+        "description": "A powerful speaker designed for parties, featuring vibrant lights and deep bass."
     },
     {
         "id": "10",
@@ -96,7 +96,7 @@ export const speakerData = [{
         "model": "Groove XXL",
         "price": "33,900",
         "category": "Electronics",
-        "description": "A wireless speaker with multi-room audio support and clear sound quality."
+        "description": "A robust speaker with a modern design, delivering high-quality sound and versatile connectivity options."
     },
     {
         "id": "11",
@@ -106,8 +106,7 @@ export const speakerData = [{
         "model": "StormBox Blast 2",
         "price": "38,989",
         "category": "Electronics",
-        "description": "A high-end wireless speaker with a distinctive design and exceptional sound."
-    },
+        "description": "A rugged speaker with powerful sound and long battery life, perfect for outdoor adventures."},
     {
         "id": "12",
         "product": "Speaker",
@@ -116,7 +115,6 @@ export const speakerData = [{
         "model": "XBoom",
         "price": "28,990",
         "category": "Electronics",
-        "description": "A portable Bluetooth speaker with rugged design, 360-degree sound, and waterproofing."
-    }
+        "description": "A versatile speaker with a sleek design, offering rich sound and smart features for music lovers."}
 ]
 

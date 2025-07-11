@@ -21,7 +21,7 @@ const ComputerSingle = () => {
         </div>
         <div className="ind-details space">
             <div className="ind-company">
-                <h2>{product.company}</h2>
+                <h2>{product.brand}</h2>
             </div>
             <div className="ind-model space">
                 <h3>{product.model}</h3>

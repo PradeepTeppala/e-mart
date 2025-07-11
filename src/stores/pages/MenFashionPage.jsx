@@ -47,7 +47,7 @@ const MenFashionPage = () => {
                     </div>
                     </Link>
                     <div className="proModel">
-                        {item.brand} {item.model}
+                        <h4>{item.brand} {item.model}</h4>
                     </div>
                 </div>
             )

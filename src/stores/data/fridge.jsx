@@ -6,7 +6,7 @@ export const fridgeData = [{
         "model": "630L Side-by-Side",
         "price": "1,89,990",
         "category": "Electronics",
-        "description": "A spacious and energy-efficient refrigerator with advanced cooling technology."
+
     },
     {
         "id": "2",
@@ -16,7 +16,7 @@ export const fridgeData = [{
         "model": "Eon Velvet 564l",
         "price": "66,990",
         "category": "Electronics",
-        "description": "A high-capacity refrigerator with smart features and precise temperature control."
+        
     },
     {
         "id": "3",
@@ -26,7 +26,6 @@ export const fridgeData = [{
         "model": "657L SBS",
         "price": "1,55,990",
         "category": "Electronics",
-        "description": "A modern refrigerator with adjustable shelves and efficient cooling performance."
     },
     {
         "id": "4",
