@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react'
 import Navbar from '../components/Navbar'
 import { Link } from 'react-router-dom'
@@ -49,7 +50,7 @@ const ComputerPage = () => {
                     </div>
                     </Link>
                     <div className="proModel">
-                        <h4>{item.brand} {item.model}</h4>
+                        <h5>{item.brand} {item.model}</h5>
                     </div>
                 </div>
             )

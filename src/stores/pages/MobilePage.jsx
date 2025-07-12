@@ -1,4 +1,5 @@
 
+
 import React, { useState } from 'react'
 import { mobileData } from '../data/mobiles'
 import Navbar from '../components/Navbar'
@@ -54,7 +55,7 @@ return (
                 </div>
             </Link>
                 <div className="proModel">
-                    <h4>{item.company} {item.model}</h4>
+                    <h5>{item.company} {item.model}</h5>
                 </div>
             </div>
         )

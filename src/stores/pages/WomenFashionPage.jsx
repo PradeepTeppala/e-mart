@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import Navbar from "../components/Navbar";
 import { womanData } from "../data/woman";
@@ -50,7 +51,7 @@ const MenFashionPage = () => {
                   </div>
                 </Link>
                 <div className="proModel">
-                  {item.brand} {item.model}
+                  <h5>{item.brand} {item.model}</h5>
                 </div>
               </div>
             );

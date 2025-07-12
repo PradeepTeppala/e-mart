@@ -30,7 +30,7 @@ const UserCart = () => {
                     <h3>{item.author}</h3>
                     <h3>{item.brand}</h3> 
                     <h3>{item.company}</h3>
-                    <h3>{item.model}</h3>
+                    <h4>{item.model}</h4>
                     <h2>
                         Rs.{item.price}
                     </h2>

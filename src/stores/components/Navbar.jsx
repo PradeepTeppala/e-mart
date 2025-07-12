@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="navSection">
         <Link to="/" className="custom-link">
           <div className="title">
-            <h2>E-Mart</h2>
+            <h2><span style={{color:"#CCFF00"}}>E</span>-Mart</h2>
           </div>
         </Link>
 
@@ -19,7 +19,7 @@ const Navbar = () => {
           <input type="text" placeholder="Search..." />
         </div>
         <div className="user">
-          <div className="user-detail">SignIN/SignUp</div>
+          <div className="user-detail">Login / Sign up</div>
         </div>
         <Link to="/cart">
           <div className="cart">

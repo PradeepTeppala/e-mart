@@ -16,7 +16,7 @@ export const furnitureData = [{
         "type": "Dining Table",
         "brand": "Sona Art",
         "model": "6 Seater Dining Table",
-        "price": "",
+        "price": "29,000",
         "category": "Home",
         "description": "A stylish dining table with a contemporary design, ideal for family gatherings."
     },

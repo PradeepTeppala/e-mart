@@ -6,6 +6,7 @@ export const fridgeData = [{
         "model": "630L Side-by-Side",
         "price": "1,89,990",
         "category": "Electronics",
+        "description": "A spacious side-by-side refrigerator with advanced cooling technology and smart features."
 
     },
     {
@@ -16,6 +17,7 @@ export const fridgeData = [{
         "model": "Eon Velvet 564l",
         "price": "66,990",
         "category": "Electronics",
+        "description": "A stylish double door refrigerator with energy-efficient features and a sleek design."
         
     },
     {
@@ -26,6 +28,7 @@ export const fridgeData = [{
         "model": "657L SBS",
         "price": "1,55,990",
         "category": "Electronics",
+        "description": "A high-capacity refrigerator with a modern design and innovative cooling technology."
     },
     {
         "id": "4",
@@ -35,7 +38,7 @@ export const fridgeData = [{
         "model": "Side-by-Side 598L",
         "price": "94,900",
         "category": "Electronics",
-        "description": "A spacious fridge with a water dispenser and innovative humidity control."
+        "description": "A spacious side-by-side refrigerator with advanced cooling technology and smart features."
     },
     {
         "id": "5",
@@ -45,7 +48,7 @@ export const fridgeData = [{
         "model": "565L Double Door",
         "price": "98,000",
         "category": "Electronics",
-        "description": "A premium refrigerator with customizable compartments and stylish design."
+        "description": "A premium refrigerator with advanced cooling technology and energy-efficient features."
     },
     {
         "id": "6",
@@ -55,7 +58,7 @@ export const fridgeData = [{
         "model": "600L Side-by-Side",
         "price": "1,13,600",
         "category": "Electronics",
-        "description": "A smart refrigerator with Wi-Fi connectivity and built-in voice assistant."
+        "description": "A high-end refrigerator with smart features and a sleek design, perfect for modern kitchens."
     },
     {
         "id": "7",
@@ -65,7 +68,7 @@ export const fridgeData = [{
         "model": "661L Side-by-Side",
         "price": "61,990",
         "category": "Electronics",
-        "description": "A reliable refrigerator with spacious freezer and high-capacity ice maker."
+        "description": "A spacious side-by-side refrigerator with advanced cooling technology and energy efficiency."
     },
     {
         "id": "8",
@@ -75,7 +78,7 @@ export const fridgeData = [{
         "model": "243L Double Door",
         "price": "24,690",
         "category": "Electronics",
-        "description": "A European-style refrigerator with advanced temperature management and energy efficiency."
+        "description": "A compact double door refrigerator with modern features and a stylish design."
     },
     {
         "id": "9",
@@ -85,7 +88,7 @@ export const fridgeData = [{
         "model": "400L Double Door",
         "price": "54,490",
         "category": "Electronics",
-        "description": "A French door refrigerator with sleek design and ample storage space."
+        "description": "A versatile double door refrigerator with advanced cooling technology and energy efficiency."
     },
     {
         "id": "10",
@@ -95,7 +98,7 @@ export const fridgeData = [{
         "model": "252L Double Door",
         "price": "19,755",
         "category": "Electronics",
-        "description": "A high-end refrigerator with dual cooling zones and advanced preservation features."
+        "description": "A budget-friendly double door refrigerator with essential features and a compact design."
     },
     {
         "id": "11",
@@ -105,7 +108,7 @@ export const fridgeData = [{
         "model": "Series 4",
         "price": "30,790",
         "category": "Electronics",
-        "description": "An energy-efficient refrigerator with modern features and elegant stainless steel finish."
+        "description": "A reliable refrigerator with a sleek design and efficient cooling technology."
     },
     {
         "id": "12",
@@ -115,6 +118,6 @@ export const fridgeData = [{
         "model": "350L Double Door",
         "price": "43,890",
         "category": "Electronics",
-        "description": "A high-performance refrigerator designed for professional-grade kitchen environments."
-    }
+        "description": "A high-quality double door refrigerator with advanced cooling features and a modern design."
+    },
 ]

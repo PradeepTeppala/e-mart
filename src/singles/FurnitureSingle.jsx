@@ -27,7 +27,7 @@ const ComputerSingle = () => {
                 <h3>{product.model}</h3>
             </div>
             <div className="ind-model space">
-            <h2>Rs.{product.price}</h2>
+            <h2>₹ {product.price}</h2>
           </div>
             <div className="ind-desc space">
                 <p>{product.description}</p>

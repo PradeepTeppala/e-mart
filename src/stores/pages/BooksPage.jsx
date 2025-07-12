@@ -1,3 +1,4 @@
+
 import React,{useState} from 'react'
 import Navbar from '../components/Navbar'
 import { booksData } from '../data/books'
@@ -49,7 +50,7 @@ const BooksPage = () => {
                     </div>
                 </Link>
                 <div className="proModel">
-                    <h4>{item.title} </h4>
+                    <h5>{item.title} </h5>
                 </div>
                 </div>
             );

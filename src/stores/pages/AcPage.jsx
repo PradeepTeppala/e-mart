@@ -1,3 +1,4 @@
+
 import React, {useState} from 'react'
 import Navbar from '../components/Navbar'
 import { acData } from '../data/ac'
@@ -49,7 +50,7 @@ const AcPage = () => {
                     </div>
                 </Link>
                 <div className="proModel">
-                    <h4>{item.company} {item.model}</h4>
+                    <h5>{item.company} {item.model}</h5>
                 </div>
                 </div>
             );
